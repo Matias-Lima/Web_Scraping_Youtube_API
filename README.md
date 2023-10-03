@@ -1,9 +1,11 @@
 # YouTube Video Search and CSV Export
 
-- Youtube Search
+- Youtube Search:
+  
 This Python script allows you to search for YouTube videos based on specific keywords and a date range using the YouTube Data API. The search results are then saved to separate CSV files for each two-week interval within a specified year.
 
-- Youtube Comments
+- Youtube Comments:
+  
 The provided Python script is designed to interact with the YouTube Data API to retrieve and analyze comments on YouTube videos over a specified date range. The script allows users to collect comments and perform word analysis on those comments
 
 ## Getting Started
